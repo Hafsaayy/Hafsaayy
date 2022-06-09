@@ -14,7 +14,7 @@ I am 22 years old, currently pursuing my degree in Bachelors of Computer Science
 - ⚡ Fun fact: I can read 4 books in a day .
 - 📫 How to reach me : hafsanaeem240@gmail.com
 - 📝 ghost e-book writer.
-- 🤔 Pronouns: sHe / Her
+- 🤔 Pronouns: she / Her
 
 <!---
 Hafsaayy/Hafsaayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
