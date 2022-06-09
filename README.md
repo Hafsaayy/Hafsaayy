@@ -13,7 +13,7 @@ I am 22 years old, currently pursuing my degree in Bachelors of Computer Science
 - 🤞 I like visual programming so trying to be good at it.
 - ⚡ Fun fact: I can read 4 books in a day .
 - 📫 How to reach me : hafsanaeem240@gmail.com
-- 📝 goast e-book writer.
+- 📝 ghost e-book writer.
 - 🤔 Pronouns: sHe / Her
 
 <!---
