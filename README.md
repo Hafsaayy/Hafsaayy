@@ -7,9 +7,9 @@ I am 22 years old, currently pursuing my degree in Bachelors of Computer Science
 
 - 👋 Hi, I’m @Hafsa
 - 🖥️ Computer Science student
-- ⚙️ I love to code in Java
+- ⚙️ I love to code in Python
 - 👀 I’m interested in Android development.
-- 💯 I’m currently learning Flutter.
+- 💯 I’m currently learning Machine Learning
 - 🤞 I like visual programming so trying to be good at it.
 - ⚡ Fun fact: I can read 4 books in a day .
 - 📫 How to reach me : hafsanaeem240@gmail.com
